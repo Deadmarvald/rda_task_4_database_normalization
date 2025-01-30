@@ -34,7 +34,7 @@ CREATE TABLE ProductInventory (
     PRIMARY KEY (ID)
 );
 
--- Populate test data
+-- Populate test datа
 
 INSERT INTO Countries (ID,Name)
 	VALUES (1, 'Country1');
